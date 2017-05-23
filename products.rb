@@ -25,8 +25,10 @@ class Products
     total_price.round(2)
   end
 
-  product1 = Products.new("ring", 10)
-  product2 = Products.new("necklace", 20)
-  product3 = Products.new("bracelet", 25)
 
-end 
+
+end
+
+# product1 = Products.new("ring", 10)
+# product2 = Products.new("necklace", 20)
+# product3 = Products.new("bracelet", 25)
